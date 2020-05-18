@@ -1,11 +1,12 @@
-# ʹ��pytorchʵ�����ٰ����ݼ�������
+# 使用pytorch实现乳腺癌数据集二分类
 
-����ʵ��ʹ��pytorch�������ٰ����ݶ����࣬���ݼ��ǡ�data.csv��ʵ�����ﵽ��97.98%��
+本次实验使用pytorch进行乳腺癌数据二分类，数据集是“data.csv”实验结果达到了97.98%。
 
-classify_pytorch����ʵ�ִ��룬��Ҫ���Ĵ����еĶ�ȡ���ݵ�ַ�����������д��롣
-������Բο���result��ͼƬ
+classify_pytorch即是实现代码，需要更改代码中的读取数据地址才能正常运行代码。
+结果可以参考“result”图片
 
-������ʾ���ֽ����
+以下显示部分结果：
+
 epoch: 0 loss: 0.6593276262283325 accuracy: 0.6532663316582902
 
 epoch: 1 loss: 0.6439936757087708 accuracy: 0.6934673366834151
